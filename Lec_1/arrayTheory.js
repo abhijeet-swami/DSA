@@ -1,5 +1,7 @@
 // Arrays in JavaScript
-// An Array in JavaScript is a single variable that is used to store different elements. It's a fundamental data structure that allows you to store an ordered collection of values.
+// An Array in JavaScript is a single variable that is used to store different
+// elements. It's a fundamental data structure that allows you to store an
+// ordered collection of values.
 
 // Key Characteristics of Arrays:
 // Ordered Collection: Elements are stored in a specific order and can be accessed by their numerical index (starting from 0).
