@@ -5,7 +5,7 @@
 
 const arr = [23, 1, 45, 65, 54, 3, 2];
 
-for (let i = 0; i < arr.length; i++) {
+for (let i = 0; i < arr.length - 1; i++) {
   let select = i;
   for (let j = i; j < arr.length; j++) {
     if (arr[j] < arr[select]) {
