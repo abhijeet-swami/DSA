@@ -1,7 +1,7 @@
-// Print 1 to N using Recursion
+// Print N to 1 using Recursion
 
 (function printNumbers(n) {
   if (n === 0) return;
-  printNumbers(n - 1);
   console.log(n);
+  printNumbers(n - 1);
 })(5);
